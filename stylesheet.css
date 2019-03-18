@@ -14,7 +14,7 @@
     margin-top: -30px;
     padding-top:60px;
     background-color: white;
-    width: 108%;
+    width: 150%;
     transform:rotate(-4deg);
     transform-origin: 0 0;
     padding-bottom: 80px;
@@ -33,7 +33,7 @@
     margin-top:315px;
     margin-left: -40px;
     background-color: white;
-    width: 108%;
+    width: 150%;
     transform:rotate(-4deg);
     transform-origin: 0 0;
     border-bottom: 0.5px solid black;
@@ -51,7 +51,7 @@
       margin-top:600px;
       margin-left: -40px;
       background-color: white;
-      width:108%;
+      width:150%;
       transform:rotate(-4deg);
       transform-origin: 0 0;
 
